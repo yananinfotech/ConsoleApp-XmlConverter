@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLConvertorV1", "XMLConvertorV1\XMLConvertorV1.csproj", "{F07ED23A-6B32-4C62-9034-50232C84739E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07ED23A-6B32-4C62-9034-50232C84739E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07ED23A-6B32-4C62-9034-50232C84739E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07ED23A-6B32-4C62-9034-50232C84739E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07ED23A-6B32-4C62-9034-50232C84739E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8167768A-79E1-4399-9C64-7137CCCEE9F7}
+	EndGlobalSection
+EndGlobal
